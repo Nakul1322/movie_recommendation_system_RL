@@ -1,7 +1,7 @@
 
 ---
 
-# **Movie Recommendation System**
+# **Movie Recommendation System using RL**
 
 This project implements a **Movie Recommendation System using Reinforcement Learning**. The system leverages user ratings and movie genres to build a personalized recommendation engine that adapts and learns from user interactions over time. The goal is to provide more accurate and dynamic movie recommendations, improving as the system learns from users' preferences.
 
